@@ -1,6 +1,7 @@
 # alien-invasion
 To try this, clone this repositary and install pycharm and python on your pc.
 
+
 To install pycharm: https://www.jetbrains.com/pycharm/download/?section=windows
 To install python: https://www.geeksforgeeks.org/how-to-install-python-on-windows
 To install pip: https://www.geeksforgeeks.org/how-to-install-pip-on-windows/
