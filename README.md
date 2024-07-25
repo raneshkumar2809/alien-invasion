@@ -1,4 +1,4 @@
-# alien-invasion
+# Alien Invasion
 To try this, clone this repositary and install pycharm and python on your pc.
 
 To install pycharm: https://www.jetbrains.com/pycharm/download/?section=windows
